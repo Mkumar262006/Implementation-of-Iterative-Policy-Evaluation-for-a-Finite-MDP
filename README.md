@@ -176,8 +176,8 @@ Iterative policy evaluation was implemented successfully using the Gymnasium Fro
 
 ## Inference
 
-. The iterative policy evaluation algorithm successfully estimated the state-value function for the fixed random policy.
-. The algorithm converged after 54 iterations, indicating that the value function reached a stable solution.
-. States closer to the goal have higher state values, while hole and terminal states have zero value, confirming the correctness of the Bellman expectation equation.
+- The iterative policy evaluation algorithm successfully estimated the state-value function for the fixed random policy.
+- The algorithm converged after 54 iterations, indicating that the value function reached a stable solution.
+- States closer to the goal have higher state values, while hole and terminal states have zero value, confirming the correctness of the Bellman expectation equation.
 
 
